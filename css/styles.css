@@ -1,0 +1,17 @@
+body{
+    background-color: #f8f8f8;
+}
+hr{
+   background-color: none;
+   border-style: dotted none none none;
+   border-top-color: #707070;
+   width: 10%;
+   border-width: 10px;
+   opacity: 50%;
+}
+h1{
+    color: firebrick;  /*firebrick hex #b22222 */
+}
+h3{
+    color: #b22222;
+}
